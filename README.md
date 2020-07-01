@@ -3,7 +3,7 @@
  
  Projeto final de avaliação para a disciplina de **Cálculo** da FATEC de *Americana-SP*.
  
- ![Sistema de Cálculo I]()
+ ![Sistema de Cálculo I](https://github.com/roger-otrevizan/Java-Swing-SisCalc1/blob/master/src/Imagens/bloggif_5efc02059e448.gif)
  
  ## Tecnologias utilizadas na implementação:
 
