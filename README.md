@@ -21,5 +21,5 @@
  - Aumentar o *layout* para ocupar toda a tela.
  
  ### Agradecimentos:
- Pedro Henrique Omena Vieira
- Thaynara Alves da Silva 
+ - Pedro Henrique Omena Vieira
+ - Thaynara Alves da Silva 
