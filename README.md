@@ -1,7 +1,7 @@
 # Java-Swing-SisCalc1
  ## Sistema de Cálculo Diferencial e Integral I
  
- Projeto final de avaliação para a disciplina de **Cálculo** da FATEC de *Americana-SP*.
+ Projeto final de avaliação para a disciplina de **Cálculo** da FATEC de *Americana-SP* em 2015.
  
  ![Sistema de Cálculo I](https://github.com/roger-otrevizan/Java-Swing-SisCalc1/blob/master/src/Imagens/bloggif_5efc02059e448.gif)
  
