@@ -9,8 +9,8 @@
  * Swing: utilizamos o framework Swing para construção das interfaces e componentes gráficos da aplicação.
  
  ## Pré-requisitos
- *JDK - última versão do Kit de desenvolvimento Java;
- *IDE de sua preferência (recomendamos Eclipse ou NetBeans).
+ * JDK - última versão do Kit de desenvolvimento Java;
+ * IDE de sua preferência (recomendamos Eclipse ou NetBeans).
 
  ## Sugestões de melhoria:
 
