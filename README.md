@@ -16,7 +16,7 @@
 
  ## Sugestões de melhoria:
 
- - Corrigir o gráfico das funções adionando os eixos fixos (coordenadas e abscissas);
+ - Corrigir o gráfico das funções adicionando os eixos fixos (coordenadas e abscissas);
  - Gerenciar o cálculo das DERIVADAS como implementado nas INTEGRAIS;
  - Aumentar o *layout* para ocupar toda a tela.
  
